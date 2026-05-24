@@ -1,0 +1,6 @@
+college_name,room_type,cooling,price_per_sem,availability
+Kolej Tun Syed Nasir (KTSN),Single Room,Air Conditioning (AC),900.0,Available
+Kolej Tun Syed Nasir (KTSN),Twin Sharing,Standard Fan Only,450.0,Limited
+Kolej Za'ba (KK7),Single Room,Standard Fan Only,500.0,Available
+Kolej Za'ba (KK7),Twin Sharing,Air Conditioning (AC),750.0,Exhausted
+Kolej Kediaman 8 (KK8),Premium Single (Attached Bath),Air Conditioning (AC),1200.0,3 rooms left

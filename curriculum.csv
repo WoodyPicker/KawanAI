@@ -1,0 +1,270 @@
+university,faculty,major,course_code,course_name,component,credits,recommended_semester,prerequisite
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),GIG1012,Philosophy and Current Issues,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),GLT1049,Malay Language Communication,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),GIG1013,Appreciation of Ethics and Civilizations,University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),GIG1003,Basic Entrepreneurship Culture,University Course,2,3,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),GLTXXXX,English for Communication (1),University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),GLTXXXX,English for Communication (2),University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),Co-Curriculum (1),Co-Curriculum (1),University Course,2,4,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),Co-Curriculum (2),Co-Curriculum (2),University Course,2,7,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIX1001,Computing Mathematics I,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIX1002,Fundamentals of Programming,Faculty Core,5,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIX1003,Computer Systems and Organization,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIX2001,Thinking and Communication Skills,Faculty Core,3,3,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIX2002,Project Management,Faculty Core,3,3,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),SHE Cluster 1,University Elective (Cluster 1) - Thinking Matters: Mind & Intellect,SHE Elective,2,4,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),SHE Cluster 2,University Elective (Cluster 2) - Technology/Artificial Intelligence and Data Analytics: i-Techie,SHE Elective,2,6,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),SHE Cluster 3,University Elective (Cluster 3) - Global Issues and Community Sustainability,SHE Elective,2,6,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),KIAR,Integrity and Anti-Corruption course,SHE Elective,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA1002,Data Structure,Programme Core,5,2,WIX1002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA1003,Computer System Architecture,Programme Core,3,2,WIX1003
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA1005,Network Technology Foundation,Programme Core,4,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA1006,Machine Learning,Programme Core,3,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA1007,Introduction to Data Science,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA2001,Database,Programme Core,3,3,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA2003,Probability and Statistics,Programme Core,3,3,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA2004,Operating Systems,Programme Core,4,4,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA2005,Algorithm Design and Analysis,Programme Core,4,4,WIA1002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA2006,System Analysis and Design,Programme Core,3,3,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA2007,Mobile Application Development,Programme Core,4,3,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA3001,Industrial Training,Programme Core,12,5,Pass all Faculty and Programme Core Courses except Academic Project I/II
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA3002,Academic Project I,Programme Core,3,6,Pass all Faculty and Programme Core Courses except Industrial Training and Academic Project II
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIA3003,Academic Project II,Programme Core,5,7,WIA3002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIC2008,Internet of Things,Specialization Elective,3,1 or 2,WIA1005
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WID2001,Knowledge Representation and Reasoning,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WID2002,Computing Mathematics II,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WID2003,Cognitive Science,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WID3001,Functional and Logic Programming,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WID3002,Natural Language Processing,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WID3007,Fuzzy Logic,Specialization Elective,3,1 or 2,WIX1001
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WID3010,Autonomous Robots,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WID3011,Deep Learning,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WID3012,Evolutionary Computation,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WID3013,Computer Vision and Pattern Recognition,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WID3014,Practical Artificial Intelligence,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WID3015,Numerical Analysis,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Artificial Intelligence),WIG3004,Virtual Reality,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),GIG1012,Philosophy and Current Issues,University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),GLT1049,Basic Malay Language,University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),GIG1013,Appreciation of Ethics and Civilizations,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),GIG1003,Basic Entrepreneurship Culture,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),GLTXXXX,English for Communication (1),University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),GLTXXXX,English for Communication (2),University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),Co-Curriculum (1),Co-Curriculum (1),University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),Co-Curriculum (2),Co-Curriculum (2),University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIX1001,Computing Mathematics I,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIX1002,Fundamentals of Programming,Faculty Core,5,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIX1003,Computer Systems and Organization,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIX2001,Thinking and Communication Skills,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIX2002,Project Management,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),SHE Cluster 1,University Elective (Cluster 1) - Thinking Matters: Mind & Intellect,SHE Elective,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),SHE Cluster 2,University Elective (Cluster 2) - Technology/Artificial Intelligence and Data Analytics: i-Techie,SHE Elective,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),SHE Cluster 3,University Elective (Cluster 3) - Global Issues and Community Sustainability,SHE Elective,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),KIAR,Integrity and Anti-Corruption course,SHE Elective,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA1002,Data Structure,Programme Core,5,2,WIX1002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA1003,Computer System Architecture,Programme Core,3,2,WIX1003
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA1005,Network Technology Foundation,Programme Core,4,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA1006,Machine Learning,Programme Core,3,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA2001,Database,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA2003,Probability and Statistics,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA2004,Operating Systems,Programme Core,4,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA2005,Algorithm Design and Analysis,Programme Core,4,2,WIA1002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA2006,System Analysis and Design,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA2008,Advanced Network Technology,Programme Core,4,1,WIA1005
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA2009,Digital Design and Hardware Description Language,Programme Core,3,1,WIA1003 & WIX1003
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA3001,Industrial Training,Programme Core,12,1,Pass all Faculty and Programme Core Courses except Academic Project I/II
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA3002,Academic Project I,Programme Core,3,2,Pass all Faculty and Programme Core Courses except Industrial Training and Academic Project II
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIA3003,Academic Project II,Programme Core,5,1,WIA3002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC2002,Network Security,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC2004,Internet Technology,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC2005,Programmable Network,Specialization Elective,3,1 or 2,WIA2008
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC2006,Digital Forensic,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC2007,Cyber Security,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC2008,Internet of Things,Specialization Elective,3,1 or 2,WIA1005
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC3001,Mathematics in Networking,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC3002,Cryptography,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC3003,Embedded System Programming,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC3004,Computer Penetration,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC3005,Enterprise Network Design and Management,Specialization Elective,3,1 or 2,WIA1005
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC3006,Mobile Computing,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC3007,Principles of Distributed System,Specialization Elective,3,1 or 2,WIA1005
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC3008,Microprocessor,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Computer System and Network),WIC3009,Parallel Programming,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),GIG1012,Philosophy and Current Issues,University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),GLT1049,Malay Language Communication,University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),GIG1013,Appreciation of Ethics and Civilizations,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),GIG1003,Basic Entrepreneurship Culture,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),GLTXXXX,English for Communication (1),University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),GLTXXXX,English for Communication (2),University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),Co-Curriculum (1),Co-Curriculum (1),University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),Co-Curriculum (2),Co-Curriculum (2),University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIX1001,Computing Mathematics I,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIX1002,Fundamentals of Programming,Faculty Core,5,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIX1003,Computer Systems and Organization,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIX2001,Thinking and Communication Skills,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIX2002,Project Management,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),SHE Cluster 1,University Elective (Cluster 1) - Thinking Matters: Mind & Intellect,SHE Elective,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),SHE Cluster 2,University Elective (Cluster 2) - Technology/Artificial Intelligence and Data Analytics: i-Techie,SHE Elective,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),SHE Cluster 3,University Elective (Cluster 3) - Global Issues and Community Sustainability,SHE Elective,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),KIAR,Integrity and Anti-Corruption course,SHE Elective,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA1001,Information Systems,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA1002,Data Structure,Programme Core,5,2,WIX1002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA1003,Computer System Architecture,Programme Core,3,2,WIX1003
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA1005,Network Technology Foundation,Programme Core,4,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA1006,Machine Learning,Programme Core,3,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA2001,Database,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA2003,Probability and Statistics,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA2004,Operating Systems,Programme Core,4,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA2005,Algorithm Design and Analysis,Programme Core,4,2,WIA1002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA2006,System Analysis and Design,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA2007,Mobile Application Development,Programme Core,4,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA3001,Industrial Training,Programme Core,12,1,Pass all Faculty and Programme Core Courses except Academic Project I/II
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA3002,Academic Project I,Programme Core,3,2,Pass all Faculty and Programme Core Courses except Industrial Training and Academic Project II
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIA3003,Academic Project II,Programme Core,5,1,WIA3002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIC2008,Internet of Things,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIE2001,Trends in Information Systems,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIE2002,Open-Source Programming: Application and Technology,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIE2003,Introduction to Data Science,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIE2005,Information Retrieval and Web Search,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIE3001,Advanced Database,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIE3002,Electronic Commerce,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIE3003,Information System Control and Security,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIE3005,Knowledge Management and Engineering,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIE3006,Information System Auditing,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIE3007,Data Mining and Warehousing,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIE3010,Data Visualization,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIE3012,Business Analytics and Intelligence,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Information Systems),WIF2003,Web Programming,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),GIG1012,Philosophy and Current Issues,University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),GLT1049,Malay Language Communication,University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),GIG1013,Appreciation of Ethics and Civilizations,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),GIG1003,Basic Entrepreneurship Culture,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),GLTXXXX,English for Communication (1),University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),GLTXXXX,English for Communication (2),University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),Co-Curriculum (1),Co-Curriculum (1),University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),Co-Curriculum (2),Co-Curriculum (2),University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIX1001,Computing Mathematics I,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIX1002,Fundamentals of Programming,Faculty Core,5,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIX1003,Computer Systems and Organization,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIX2001,Thinking and Communication Skills,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIX2002,Project Management,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),SHE Cluster 1,University Elective (Cluster 1) - Thinking Matters: Mind & Intellect,SHE Elective,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),SHE Cluster 2,University Elective (Cluster 2) - Technology/Artificial Intelligence and Data Analytics: i-Techie,SHE Elective,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),SHE Cluster 3,University Elective (Cluster 3) - Global Issues and Community Sustainability,SHE Elective,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),KIAR,Integrity and Anti-Corruption course,SHE Elective,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA1002,Data Structure,Programme Core,5,2,WIX1002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA1003,Computer System Architecture,Programme Core,3,2,WIX1003
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA1005,Network Technology Foundation,Programme Core,4,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA1006,Machine Learning,Programme Core,3,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA2001,Database,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA2002,Software Modeling,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA2003,Probability and Statistics,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA2004,Operating Systems,Programme Core,4,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA2005,Algorithm Design and Analysis,Programme Core,4,2,WIA1002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA2007,Mobile Application Development,Programme Core,4,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA2010,Human Computer Interaction,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA3001,Industrial Training,Programme Core,12,1,Pass all Faculty and Programme Core Courses except Academic Project I/II
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA3002,Academic Project I,Programme Core,3,2,Pass all Faculty and Programme Core Courses except Industrial Training and Academic Project II
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIA3003,Academic Project II,Programme Core,5,1,WIA3002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIF2002,Software Requirements Engineering,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIF2003,Web Programming,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIF3001,Software Testing,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIF3002,Software Process and Quality,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIF3004,Software Architecture and Design Paradigms,Specialization Elective,3,1 or 2,WIA2002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIF3005,Software Maintenance and Evolution,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIF3006,Component Based Software Engineering,Specialization Elective,3,1 or 2,WIA2002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIF3008,Real Time Systems,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIF3009,Python for Scientific Computing,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIF3010,Programming Language Paradigm,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIF3011,Concurrent and Parallel Programming,Specialization Elective,3,1 or 2,WIX1002 & WIA2004
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIG3005,Game Development,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Software Engineering),WIC2008,Internet of Things,Specialization Elective,3,1 or 2,WIA1005
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),GIG1012,Philosophy and Current Issues,University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),GLT1049,Basic Malay Language,University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),GIG1013,Appreciation of Ethics and Civilizations,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),GIG1003,Basic Entrepreneurship Culture,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),GLTXXXX,English for Communication (1),University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),GLTXXXX,English for Communication (2),University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),Co-Curriculum (1),Co-Curriculum (1),University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),Co-Curriculum (2),Co-Curriculum (2),University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIX1001,Computing Mathematics I,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIX1002,Fundamentals of Programming,Faculty Core,5,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIX1003,Computer Systems and Organization,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIX2001,Thinking and Communication Skills,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIX2002,Project Management,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),SHE Cluster 1,University Elective (Cluster 1) - Thinking Matters: Mind & Intellect,SHE Elective,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),SHE Cluster 2,University Elective (Cluster 2) - Technology/Artificial Intelligence and Data Analytics: i-Techie,SHE Elective,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),SHE Cluster 3,University Elective (Cluster 3) - Global Issues and Community Sustainability,SHE Elective,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),KIAR,Integrity and Anti-Corruption course,SHE Elective,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA1002,Data Structure,Programme Core,5,2,WIX1002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA1003,Computer System Architecture,Programme Core,3,2,WIX1003
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA1005,Network Technology Foundation,Programme Core,4,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA1006,Machine Learning,Programme Core,3,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA1008,Fundamental of Multimedia,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA2001,Database,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA2003,Probability and Statistics,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA2004,Operating Systems,Programme Core,4,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA2005,Algorithm Design and Analysis,Programme Core,4,2,WIA1002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA2006,System Analysis and Design,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA2007,Mobile Application Development,Programme Core,4,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA3001,Industrial Training,Programme Core,12,1,Pass all Faculty and Programme Core Courses except Academic Project I/II
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA3002,Academic Project I,Programme Core,3,2,Pass all Faculty and Programme Core Courses except Industrial Training and Academic Project II
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIA3003,Academic Project II,Programme Core,5,1,WIA3002
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIG2001,Digital Image Processing,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIG2002,Computer Graphics,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIG2004,Audio Synthesis,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIG2005,Interactive Design,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIG3001,Mathematics for Multimedia,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIG3002,Rendering and Animation,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIG3003,Multimedia Programming,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIG3004,Virtual Reality,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIG3005,Game Development,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIG3006,Digital Video Processing,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIG3007,Special Topics in Multimedia,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIG3008,Multimedia Forensic and Security,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIE3010,Data Visualization,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Multimedia Computing),WIF2003,Web Programming,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),GIG1012,Philosophy and Current Issues,University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),GLT1049,Basic Malay Language,University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),GIG1013,Appreciation of Ethics and Civilizations,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),GIG1003,Basic Entrepreneurship,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),GIG1004,Information Literacy,University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),GIG1005,Social Engagement,University Course,2,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),GLTXXXX,English for Communication (1),University Course,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),GLTXXXX,English for Communication (2),University Course,3,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),Co-Curriuculum,Co-Curriuculum,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),External Faculty Elective,External Faculty Elective,University Course,2,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIX1001,Computing Mathematics I,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIX1002,Fundamentals of Programming,Faculty Core,5,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIX1003,Computer System and Organization,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIX2001,Thinking and Communication Skills,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIX2002,Project Management,Faculty Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIE2003,Introduction to Data Science,Programme Core,3,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIA1001,Information Systems,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIA1002,Data Structure,Programme Core,5,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIA1003,Computer System Architecture,Programme Core,3,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIA1005,Network Technology Foundation,Programme Core,4,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIA2001,Database,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIA2002,Software Modelling,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIA2003,Probability and Statistics,Programme Core,3,1,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIA2004,Operating Systems,Programme Core,4,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WID3006,Machine Learning,Programme Core,3,2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIH3005,Professional Development,Programme Core,2,1,Taken all Faculty and Programme Core Courses
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIH3006,Data Science and Application,Programme Core,5,1,Taken all Faculty and Programme Core Courses
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIH3007,Industrial Solution Development,Programme Core,5,1,Taken all Faculty and Programme Core Courses
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIH3001,Data Science Project,Programme Core,3,1,Pass all Faculty and Programme Core Courses except Industrial Training
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIH3002,Data Science Industrial Training,Programme Core,14,2,Pass all Faculty and Programme Core Courses except Industrial Training
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIX3001,Soft Computing,Faculty Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIX3002,Social Informatics,Faculty Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIX3003,Information Security Management and Ethics,Faculty Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIC2004,Internet Technology,Faculty Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIH2001,Data Analytics,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WID2001,Knowledge Representation and Reasoning,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WID2002,Computing Mathematics II,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WID3001,Functional and Logic Programming,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WID3002,Natural Language Processing,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIE3007,Data Mining and Warehousing,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIE3010,Data Visualization,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIE3012,Business Analytics and Intelligence,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIH3003,Big Data Applications and Analytics,Specialization Elective,3,1 or 2,None
+Universiti Malaya (UM),Faculty of Computer Science & IT,Bachelor of Computer Science (Data Science),WIH3004,Trends in Data Science,Specialization Elective,3,1 or 2,None
